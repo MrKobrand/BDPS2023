@@ -1,0 +1,6 @@
+### Python ###
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data folders
+data/
