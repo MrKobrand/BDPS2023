@@ -1,0 +1,9 @@
+### Python ###
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data folders
+data/
+
+# Machine learning models
+model/
